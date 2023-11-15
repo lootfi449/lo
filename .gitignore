@@ -5,7 +5,7 @@ plugins/**/*
 files
 
 # DBMigrate plugin: generated SQL
-db/sql
+db/dder
 
 # AssetBundler plugin: generated bundles
 javascripts/bundles342
